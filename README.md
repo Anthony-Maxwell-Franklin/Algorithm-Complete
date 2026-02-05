@@ -2,7 +2,7 @@
 
 对我所知道的计算机（算法/数学）资源进行汇总整理
 
-![设置悬念，激发读者阅读兴趣](image.png)
+![设置悬念，激发读者阅读兴趣](怎么回事喵.png)
 
 ## 目录
 
@@ -34,6 +34,7 @@
 - [Shanghai Tech University](https://github.com/i-TechX/iTechX/tree/file-base/courses/CS101/CS101.01_Fall_2022/Lecture%20Slides%20%E6%95%99%E5%AD%A6%E8%AF%BE%E4%BB%B6)
 - [Elementary Functional Algorithms（算法新解）](https://github.com/liuxinyu95/AlgoXY)
 - [StoneValley](https://github.com/coshcage/StoneValley) 个人维护的C语言通用算法库
+- [刘汝佳（紫书+蓝书）](https://github.com/klb3713/aoapc-book)
 
 #### WiKi/Note
 

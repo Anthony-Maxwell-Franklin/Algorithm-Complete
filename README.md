@@ -13,6 +13,7 @@
 
 - [Introduction to Algorithms](https://mitpress.mit.edu/9780262533058/introduction-to-algorithms/)
 - [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
+- [Mathematics in Programming(同构：编程中的数学)](https://link.springer.com/book/10.1007/978-981-97-2432-1)
 
 #### 论文
 
@@ -24,6 +25,8 @@
 
 - [ACM-ICPC-Preparation](https://github.com/BedirT/ACM-ICPC-Preparation)
 - [Shanghai Tech University](https://github.com/i-TechX/iTechX/tree/file-base/courses/CS101/CS101.01_Fall_2022/Lecture%20Slides%20%E6%95%99%E5%AD%A6%E8%AF%BE%E4%BB%B6)
+- [Elementary Functional Algorithms（算法新解）](https://github.com/liuxinyu95/AlgoXY)
+- 
 
 #### WiKi/Note
 

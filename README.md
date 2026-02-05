@@ -46,6 +46,7 @@
 #### 神奇网站
 
 - [Bit HACK](https://graphics.stanford.edu/~seander/bithacks.html)
+- [Conway's Game of Life](https://golly.sourceforge.io/)
 
 #### 课程
 

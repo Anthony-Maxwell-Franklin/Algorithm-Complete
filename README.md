@@ -56,6 +56,7 @@
 - [Algorithm Analysis](https://aofa.cs.princeton.edu/home/) 算法分析这一块
 - [Advanced Topics In Statistical Machine Learning](https://www.robots.ox.ac.uk/~twgr/teaching/) 机器学习这一块
 - [Linear and Semidefinite Programming (Advanced Algorithms)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15859-f11/www/)
+- [MIT 18.06SC Linear Algebra, Fall 2011](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) 如何将对线性代数的理解拔高到第114514层
 
 ## 综合平台
 

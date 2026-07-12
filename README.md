@@ -23,6 +23,7 @@
 - [Discrete Mathematics and Its Applications, 8th Edition](https://ia600600.us.archive.org/7/items/mathematics_202103/Rosen%2C%20Kenneth%20H%20-%20Discrete%20mathematics%20and%20its%20applications-McGraw-Hill%20%288th%20ed%29%282019%29.pdf) 这位更是重量级嗷
 - [Linear Algebra for Computational Sciences and Engineering](https://link.springer.com/book/10.1007/978-3-030-21321-3) 更适合计算机学生体质的线性代数
 - [智能优化算法与涌现计算](https://www.tup.com.cn/booksCenter/book_07631001.html) 收集国内外已提出的106种原创的智能优化算法
+- [Introduction to Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372)  国际算法大师乌迪·曼博（Udi Manber）博士撰写的《算法引论：一种创造性方法》
 
 #### 论文
 
